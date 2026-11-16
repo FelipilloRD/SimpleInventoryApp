@@ -19,7 +19,7 @@ El sistema cuenta con las siguientes opciones disponibles desde un menú interac
 
 ## Características Técnicas
 
-- **C# moderno** con instrucciones de nivel superior (Top-level statements)
+- **C# moderno** con top-level statements (sin `class Program` ni `static void Main`)
 - **Estructura de control**: bucle `while (running)` con `switch` para el menú
 - **Almacenamiento en memoria**: `List<int>`, `Dictionary<int, string>`, `Dictionary<int, decimal>`, `Dictionary<int, int>`
 - **Manejo de errores**: validación con `TryParse` y bloques `try-catch` para evitar cierres inesperados
