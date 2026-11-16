@@ -69,4 +69,4 @@ Ingrese la cantidad en stock: 10
 
 ## Autor
 
-Desarrollado como proyecto del curso de Programación 1.
+Felipillo LF - Proyecto Programacion
